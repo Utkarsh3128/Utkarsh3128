@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Utkarsh3128
-- 👀 I’m interested in compueter programming
-- 🌱 I’m currently learning C language
+- 👀 I’m interested in computer programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Ph no.-9693912010
 
