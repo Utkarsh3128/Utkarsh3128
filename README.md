@@ -1,4 +1,4 @@
-* Hi, I'm @Utkarsh
+* :wave: Hi, I'm @Utkarsh
 * :book: I love maths, programming and web development
 * :soccer: I am interested in Football
 * :seedling: I'm currently learning CSS & JavaScript
