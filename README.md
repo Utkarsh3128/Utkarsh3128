@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh3128&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh3128" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **utkarshcr73128@gmail.com**
+- :book: I am currently studying Computer Science and Engineering at the Bharati Vidyapeeth University, Pune.
+- 🌱 I’m on track for learning more about Web Development, System Design and App Development.
+<!-- - ✍️ In my free time, I pursue Reading and watching Anime as hobbies. -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
