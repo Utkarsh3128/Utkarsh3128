@@ -1,9 +1,17 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
+<img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh3128&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh3128" /> </p>
 
-- :book: I'm currently studying Computer Science and Engineering at the Bharati Vidyapeeth University, Pune.
-- 🌱 I’m on track for learning more about Web Development, System Design and App Development.
+- :school: **Bharati Vidyapeeth University, Pune**
+
+- :book: I am currently learning **JavaScript**
+
+- 🌱 I’m on track for learning more about Web Development and Software Engineering.
+
+- You can shoot me an email at **utkarshcr73128@gmail.com**
+
 <!-- - ✍️ In my free time, I pursue Reading and watching Anime as hobbies. -->
 
 <h3 align="left">Connect with me:</h3>
