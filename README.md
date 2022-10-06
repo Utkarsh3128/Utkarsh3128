@@ -1,12 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
 <img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh3128&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh3128" /> </p>
 
-- :school: **Bharati Vidyapeeth University, Pune**
+- :school: I'm currently studying at **Bharati Vidyapeeth University, Pune**
 
-- :book: I am currently learning **JavaScript**
+- :book: I'm currently learning **JavaScript**
 
 - 🌱 I’m on track for learning more about Web Development and Software Engineering.
 
