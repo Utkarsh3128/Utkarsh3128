@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh3128&" alt="utkarsh3128" /></p>
 
-![Snake animation](https://github.com/Utkarsh3128/Utkarsh3128/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/thepiyushmalhotra/utkarsh3128/blob/output/github-contribution-grid-snake.svg) -->
