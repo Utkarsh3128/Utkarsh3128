@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=utkarsh3128&show_icons=true&locale=en" alt="utkarsh3128" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh3128&" alt="utkarsh3128" /></p>
+
+![Snake animation](https://github.com/Utkarsh3128/Utkarsh3128/blob/output/github-contribution-grid-snake.svg)
