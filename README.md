@@ -5,7 +5,7 @@
 
 - :school: Pursuing my Bachelor's in Computer Science and Engineering from **Bharati Vidyapeeth (DU) College of Engineering**
 
-- :book: I'm currently learning **JavaScript**
+- :book: Learning **JavaScript**
 
 - 🌱 I’m on track for learning more about Web Development and Software Engineering.
 
