@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh3128&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh3128" /> </p>
 
-- :school: I'm currently studying at **Bharati Vidyapeeth University, Pune**
+- :school: Pursuing my Bachelor's in Computer Science and Engineering from **Bharati Vidyapeeth (DU) College of Engineering**
 
 - :book: I'm currently learning **JavaScript**
 
