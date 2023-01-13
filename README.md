@@ -25,8 +25,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh3128&show_icons=true&locale=en&layout=compact" alt="utkarsh3128"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=utkarsh3128&show_icons=true&locale=en" alt="utkarsh3128" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=utkarsh3128&show_icons=true&theme=tokyonight" alt="utkarsh3128" /></p>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh3128&show_icons=true&theme=radical) -->
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh3128&" alt="utkarsh3128" /></p>
 
-![Snake animation](https://github.com/utkarsh3128/utkarsh3128/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/utkarsh3128/utkarsh3128/blob/output/github-contribution-grid-snake.svg) -->
