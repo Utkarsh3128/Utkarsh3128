@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20Everybody&fontSize=60&animation=fadeIn) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hello%20Everybody&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hello%20Everybody&section=header&animation=fadeIn&fontSize=50"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
