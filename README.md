@@ -4,19 +4,19 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<img align="right" alt="img" width="400" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+
+<img align="right" alt="img" width="30%" height="230" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 - :school: Pursuing my Bachelor's in Computer Science and Engineering from **Bharati Vidyapeeth (DU) College of Engineering**
-
 - :book: Learning **JavaScript**
-
 - 🌱 I’m on track for learning more about Web Development and Software Engineering.
-
 - You can shoot me an email at **utkarshcr73128@gmail.com**
 <!-- - ✍️ In my free time, I pursue Reading and watching Anime as hobbies. -->
 
-### 🤝 Connect with me here
+
+### 🤝Connect with me here
 <!-- <p align="center"> -->
+	
   <a href="https://www.instagram.com/in/_.utkarsh10/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -47,11 +47,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh3128&show_icons=true&locale=en&layout=compact" alt="utkarsh3128"/></p>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh3128&show_icons=true&locale=en&layout=compact&theme=radical" alt="utkarsh3128"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=utkarsh3128&show_icons=true&theme=tokyonight" alt="utkarsh3128" /></p>
+<p align="center">
+        <img width="48%" src="https://github-readme-stats.vercel.app/api?username=utkarsh3128&show_icons=true&theme=tokyonight" alt="utkarsh3128" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh3128&&theme=radical" alt="utkarsh3128" />
+</p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh3128&show_icons=true&theme=radical) -->
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh3128&" alt="utkarsh3128" /></p>
 
 <!-- ![Snake animation](https://github.com/utkarsh3128/utkarsh3128/blob/output/github-contribution-grid-snake.svg) -->
