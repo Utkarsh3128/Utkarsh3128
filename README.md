@@ -1,7 +1,11 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20Everybody&fontSize=60&animation=fadeIn) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hello%20Everybody&section=header&animation=fadeIn&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hello%20Everybody&section=header&fontSize=50&animation=fadeIn"/>
 </p>
+
+<!-- <p align="center">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
@@ -23,6 +27,7 @@
 <a href="https://twitter.com/utkarshcr73128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkarshcr73128" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-kumar-002a6b189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-kumar-002a6b189/" height="30" width="40" /></a>
 <a href="https://instagram.com/_.utkarsh10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.utkarsh10" height="30" width="40" /></a>
+<a href="https://instagram.com/_.utkarsh10" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" alt="_.utkarsh10" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
