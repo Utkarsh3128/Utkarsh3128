@@ -1,3 +1,8 @@
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20Everybody&fontSize=60&animation=fadeIn) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello%20Everybody&fontSize=60&animation=fadeIn&descAlignY=10"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
 <img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
