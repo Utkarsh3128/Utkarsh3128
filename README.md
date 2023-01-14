@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 
-<img align="right" alt="img" width="30%" height="230" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+<img align="right" alt="img" width="30%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 - :school: Pursuing my Bachelor's in Computer Science and Engineering from **Bharati Vidyapeeth (DU) College of Engineering**
 - :book: Learning **JavaScript**
