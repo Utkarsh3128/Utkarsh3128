@@ -9,7 +9,7 @@
 <img align="right" alt="img" width="40%" src=images/Programming-amico.svg></img>
 
 - :school: Pursuing my Bachelor's in Computer Science and Engineering from **Bharati Vidyapeeth (DU) College of Engineering**
-- :book: Learning **JavaScript**
+- :book: Learning **React**
 - 🌱 I’m on track for learning more about Web Development and Software Engineering.
 - You can shoot me an email at **utkarshcr73128@gmail.com**
 <!-- - ✍️ In my free time, I pursue Reading and watching Anime as hobbies. -->
