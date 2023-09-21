@@ -58,5 +58,5 @@
 </p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh3128&show_icons=true&theme=radical) -->
 <!-- ![Kyle Peeler's Code Time Stats](https://codetime-readme-stats.vercel.app/api?username=kylepeeler)(https://github.com/kylepeeler/github-readme-stats) -->
-<img width="48%" src="https://codetime-readme-stats.vercel.app/api?username=utkarsh3128" alt="utkarsh3128" />
+<!-- <img width="48%" src="https://codetime-readme-stats.vercel.app/api?username=utkarsh3128" alt="utkarsh3128" /> -->
 <!-- ![Snake animation](https://github.com/utkarsh3128/utkarsh3128/blob/output/github-contribution-grid-snake.svg) -->
